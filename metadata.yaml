@@ -1,5 +1,8 @@
 _repo: Larry-Dexter-Reporter-Or-Strange-Adventures-in-a-Great-City_60244
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60244-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Howard_R._Garis
     - http://www.gutenberg.org/ebooks/author/32638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60244#Larry-Dexter-Reporter-Or-Strange-Adventures-in-a-Great-City
 gutenberg_issued: '2019-09-06'
 gutenberg_type: Text
 identifiers:
