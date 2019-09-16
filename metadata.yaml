@@ -1,0 +1,31 @@
+_repo: Larry-Dexter-Reporter-Or-Strange-Adventures-in-a-Great-City_60244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Howard_R._Garis
+    - http://www.gutenberg.org/ebooks/author/32638
+description: ''
+gutenberg_issued: '2019-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Reporters and reporting -- Juvenile fiction'
+- GITenberg
+title: Larry Dexter, Reporter; Or, Strange Adventures in a Great City
+url: http://www.gutenberg.org/ebooks/60244
